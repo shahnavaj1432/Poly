@@ -8,21 +8,21 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link rel="icon" href="img/favicon.png">
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="../../../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../../../assets/css/bootstrap.min.css">
     <!-- animate CSS -->
-    <link rel="stylesheet" href="../../../assets/css/animate.css">
+    <link rel="stylesheet" href="../../../../assets/css/animate.css">
     <!-- owl carousel CSS -->
-    <link rel="stylesheet" href="../../../assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../../../../assets/css/owl.carousel.min.css">
     <!-- themify CSS -->
-    <link rel="stylesheet" href="../../../assets/css/themify-icons.css">
+    <link rel="stylesheet" href="../../../../assets/css/themify-icons.css">
     <!-- flaticon CSS -->
-    <link rel="stylesheet" href="../../../assets/css/flaticon.css">
+    <link rel="stylesheet" href="../../../../assets/css/flaticon.css">
     <!-- font awesome CSS -->
-    <link rel="stylesheet" href="../../../assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="../../../../assets/css/magnific-popup.css">
     <!-- swiper CSS -->
-    <link rel="stylesheet" href="../../../assets/css/slick.css">
+    <link rel="stylesheet" href="../../../../assets/css/slick.css">
     <!-- style CSS -->
-    <link rel="stylesheet" href="../../../assets/css/style.css">
+    <link rel="stylesheet" href="../../../../assets/css/style.css">
     
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
@@ -81,7 +81,7 @@
                     </div>
                     </li> -->
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
+                    <a class="nav-link" href="/contact.php">Contact</a>
                   </li>
                   <li class="d-none d-lg-block">
                     <a class="btn_1" href="#">Get a Quote</a>
